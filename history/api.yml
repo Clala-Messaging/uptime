@@ -1,7 +1,7 @@
 url: https://api.clala.blakehaug.com/.well-known/apollo/server-health
 status: up
 code: 200
-responseTime: 279
-lastUpdated: 2023-04-11T23:09:09.058Z
+responseTime: 217
+lastUpdated: 2023-04-12T23:08:52.212Z
 startTime: Thu Apr 21 2022 00:04:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
