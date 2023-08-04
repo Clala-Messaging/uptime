@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 238,
-    "timeDay": 193,
-    "timeWeek": 251,
+    "timeDay": 181,
+    "timeWeek": 237,
     "timeMonth": 232,
     "timeYear": 237,
-    "dailyMinutesDown": {
-      "2022-08-04": 51
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -25,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.clala.blakehaug.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "94.15%",
+    "uptime": "94.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.49%",
     "time": 233,
-    "timeDay": 172,
-    "timeWeek": 243,
-    "timeMonth": 227,
+    "timeDay": 195,
+    "timeWeek": 235,
+    "timeMonth": 228,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2023-05-12": 264,
@@ -64,8 +62,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 273,
-      "2022-08-04": 34
+      "2023-04-14": 273
     }
   }
 ]
