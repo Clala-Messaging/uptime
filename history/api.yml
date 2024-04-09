@@ -1,7 +1,7 @@
 url: https://api.clala.blakehaug.com/.well-known/apollo/server-health
 status: down
 code: 502
-responseTime: 260
-lastUpdated: 2024-04-08T23:09:52.154Z
+responseTime: 160
+lastUpdated: 2024-04-09T23:10:07.952Z
 startTime: 2022-04-21T00:04:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
